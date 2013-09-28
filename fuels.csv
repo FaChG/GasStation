@@ -1,0 +1,6 @@
+FuelName	Unit	UnitPrice
+Gas	m3	1.0
+Diesel	l	1.1
+BioDiesel	l	0.9
+Hydrogen	l	1.2
+Electricity	wh	1.3
